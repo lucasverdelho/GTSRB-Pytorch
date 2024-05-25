@@ -1,2 +1,4 @@
 /test_images/*
 /train_images/*
+/data/*
+/util/__pycache__/*
