@@ -2,3 +2,4 @@
 /train_images/*
 /data/*
 /util/__pycache__/*
+datasets.zip
