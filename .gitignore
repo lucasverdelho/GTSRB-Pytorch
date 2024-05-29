@@ -1,5 +1,4 @@
-/test_images/*
-/train_images/*
+/datasets/*
 /data/*
 /util/__pycache__/*
 datasets.zip
