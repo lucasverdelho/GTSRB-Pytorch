@@ -2,3 +2,5 @@ trabalho_grupo/datasets/*
 trabalho_grupo/data/*
 trabalho_grupo/util/__pycache__/*
 trabalho_grupo/datasets.zip
+/trabalho_individual_1/train/*
+/trabalho_individual_1/val/*
